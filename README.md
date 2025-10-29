@@ -21,12 +21,12 @@ It acts as a personal assistant that listens, speaks, and remembers context — 
 ### **1️⃣ Clone the Repository**
 
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git https://github.com/pravinavachar12/Ai-assistant.git
+cd Ai-assistant
 
 ### **2️⃣ Set Up Environment Variables**
-ELEVEN_API_KEY=your_elevenlabs_api_key_here
-AGENT_ID=your_agent_id_here
+- ELEVEN_API_KEY=your_elevenlabs_api_key_here
+- AGENT_ID=your_agent_id_here
 
 ### **3️⃣ Update .gitignore**
 .env
