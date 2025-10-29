@@ -1,46 +1,25 @@
-# 🤖 AI Voice Assistant (ElevenLabs Conversational AI)
+# 🧠 AI Voice Assistant using ElevenLabs Conversational AI
 
-An interactive **AI voice assistant** built with **Python** and the **ElevenLabs Conversational AI API**.  
-This assistant can listen, understand, and respond using realistic, natural-sounding AI voices in real time.
-
----
-
-## 🧠 Features
-
-- 🎙️ Real-time voice interaction (listen and respond)
-- 💬 Conversational memory across messages
-- 🔊 High-quality speech synthesis via ElevenLabs API
-- ⚙️ Easily customizable voice and agent settings
-- 🧩 Simple `.env`-based configuration for API keys
+This project is a Python-based **AI Voice Assistant** that uses **ElevenLabs Conversational AI** to create real-time voice interactions.  
+It acts as a personal assistant that listens, speaks, and remembers context — similar to Alexa or ChatGPT Voice.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features
 
-| Component | Technology |
-|------------|-------------|
-| **Language** | Python 3.10+ |
-| **Voice AI** | ElevenLabs Conversational AI |
-| **Environment Handling** | python-dotenv |
-| **Networking** | WebSocket |
-| **Threading** | Python threading module |
+- 🎤 Real-time voice-based interaction with ElevenLabs AI
+- 🧠 Context-aware conversation handling
+- 🗓️ Customizable prompts (e.g., schedule reminders, task helpers)
+- 🔐 Secure API key management with `.env`
+- 💬 Callback functions for printing AI and user messages
+- 🪶 Lightweight and fully Python-based setup
 
 ---
 
 ## 📦 Installation & Setup
 
 ### **1️⃣ Clone the Repository**
+
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-
----
-
-### **👨‍💻 Author
-Pravin Avachar
-Connect with me on 
-- LinkedIn : [linkedin](https://www.linkedin.com/in/pravin-avachar-aab999320/)
-- GitHub: [@pravinavachar12](https://github.com/pravinavachar12)
-
-## 📃 License
-This project is open-source and available under the [MIT License](LICENSE).
