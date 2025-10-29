@@ -33,3 +33,13 @@ This assistant can listen, understand, and respond using realistic, natural-soun
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+
+
+## 👨‍💻 Author
+Pravin Avachar
+Connect with me on 
+- LinkedIn : [linkedin](https://www.linkedin.com/in/pravin-avachar-aab999320/)
+- GitHub: [@pravinavachar12](https://github.com/pravinavachar12)
+
+## 📃 License
+This project is open-source and available under the [MIT License](LICENSE).
