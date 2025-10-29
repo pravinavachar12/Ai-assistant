@@ -20,6 +20,26 @@ It acts as a personal assistant that listens, speaks, and remembers context — 
 
 ### **1️⃣ Clone the Repository**
 
-```bash
+
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
+
+### **2️⃣ Set Up Environment Variables**
+ELEVEN_API_KEY=your_elevenlabs_api_key_here
+AGENT_ID=your_agent_id_here
+
+### **3️⃣ Update .gitignore**
+.env
+
+### **4️⃣ Run the Project**
+python main.py
+
+## 👨‍💻 Author
+Pravin Avachar
+Connect with me on 
+- LinkedIn : [linkedin](https://www.linkedin.com/in/pravin-avachar-aab999320/)
+- GitHub: [@pravinavachar12](https://github.com/pravinavachar12)
+
+## 📃 License
+This project is open-source and available under the [MIT License](LICENSE).
+
